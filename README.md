@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjBPTDd4NDJ2YjhTakdpYWRTbHVBa0FRM0x3UXxBQ3Jtc0tsaDFmRE9TNmlrOGNjQmFDWWFibGFaZ3dubzc0MFN0RGJRMFlaQ25MVG0zRDVrZGpVR0hoc25OSVZ0Vm1kRjlncUQ3M3M0MHlKSzVSTEF6SktxZWlzaXk5ZlV6S3VPZWY0R1lYdUJ0UzFvTDNIRzE0Yw&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)">
 <h1 align="center">Hi 👋, I'm Siddhant Gujrathi</h1>
 <h3 align="center">👨‍💻 Engineering student & Android dev with a knack for Java and problem-solving. Love to code, learn, and collaborate on tech projects. 🚀</h3>
 
