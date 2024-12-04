@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <h1 align="center">Hi 👋, I'm Siddhant Gujrathi</h1>
 <h3 align="center">👨‍💻 Engineering student & Android dev with a knack for Java and problem-solving. Love to code, learn, and collaborate on tech projects. 🚀</h3>
 
